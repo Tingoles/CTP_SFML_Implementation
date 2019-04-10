@@ -1,0 +1,43 @@
+﻿  Flag.cpp
+  Game.cpp
+  GameObject.cpp
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\gameobject.cpp(11): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\gameobject.cpp(10): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GameTimer.cpp
+  Grid.cpp
+  MapGenerator.cpp
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\mapgenerator.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  Projectile.cpp
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\projectile.cpp(25): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+  Renderer.cpp
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\renderer.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  Squad.cpp
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\squad.cpp(23): warning C4018: '<': signed/unsigned mismatch
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\squad.cpp(157): warning C4018: '<': signed/unsigned mismatch
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\squad.cpp(226): warning C4018: '<': signed/unsigned mismatch
+  Team.cpp
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\team.cpp(26): warning C4018: '<': signed/unsigned mismatch
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\team.cpp(51): warning C4018: '<': signed/unsigned mismatch
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\team.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  Tiles.cpp
+  Unit.cpp
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\unit.cpp(56): warning C4018: '<': signed/unsigned mismatch
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\unit.cpp(168): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\unit.cpp(169): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\unit.cpp(203): warning C4018: '<': signed/unsigned mismatch
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\unit.cpp(242): warning C4018: '<': signed/unsigned mismatch
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\unit.cpp(246): warning C4018: '<': signed/unsigned mismatch
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\unit.cpp(332): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TeamManager.cpp
+  Generating Code...
+d:\creativetechproject\huwtingleyctp_sfml\huwtingleyctp\grid.cpp(44): warning C4715: 'Grid::SpiralTillAvailible': not all control paths return a value
+  main.cpp
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

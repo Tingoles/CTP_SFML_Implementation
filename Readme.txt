@@ -1,0 +1,1 @@
+To build the project, Visual Studio must be on x64 and Windows SDK version 10.0.17134.0 (2Q24 version)
